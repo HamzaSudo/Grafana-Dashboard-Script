@@ -332,11 +332,7 @@
     ]
   },
   "timezone": "browser",
-<<<<<<< HEAD
-  "title": "Windows Server Monitoring – 10.170.1.40",
-=======
-  "title": "Windows Server Monitoring – 10.170.1.40",
->>>>>>> eac6b90cf8c467b554f7589f63ecc85670519d25
+  "title": "Windows Server Monitoring Updated – 10.150.1.40",
   "uid": "aaa-ecp-aas-dh",
   "version": 16,
   "weekStart": ""
