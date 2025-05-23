@@ -15,7 +15,7 @@
       }
     ]
   },
-  "description": "Simple Windows Server Monitoring",
+  "description": "Simple Windows Server Monitoring Test",
   "editable": true,
   "fiscalYearStartMonth": 0,
   "graphTooltip": 1,
